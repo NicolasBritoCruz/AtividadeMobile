@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+     x:Class="AtividadeMobile.PaginaEntrar" >
+
+    <AbsoluteLayout BackgroundColor="#0f2043">
+        <Label
+            AbsoluteLayout.LayoutBounds="0.5, 0.04" 
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            Text="Página Inicial"
+            FontSize="30"
+            FontFamily="Montserrat-Bold"/>
+        <Button
+            x:Name="btnConta" 
+            Text="Minha Conta" 
+            AbsoluteLayout.LayoutBounds="0.5, 0.2" 
+            AbsoluteLayout.LayoutFlags="PositionProportional" 
+            FontSize="22" 
+            TextColor="#0f2043" 
+            BackgroundColor="#d9d9d9" 
+            FontFamily="Montserrat-SemiBold" 
+            Padding="85, 0"
+            Clicked="btnConta_Clicked"/>
+           
+        <Button 
+            x:Name="btnUsuarios"
+            Text="Usuários Cadastrados"
+            AbsoluteLayout.LayoutBounds="0.5, 0.32" 
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontSize="22" 
+            TextColor="#0f2043" 
+            BackgroundColor="#d9d9d9"
+            FontFamily="Montserrat-SemiBold" 
+            Padding="35, 0"
+            Clicked="btnUsuarios_Clicked"/>
+        <Button 
+            x:Name="btnSair"
+            Text="Sair"
+            AbsoluteLayout.LayoutBounds="0.5, 0.9" 
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontSize="22" 
+            TextColor="#d9d9d9" 
+            BackgroundColor="#0f2043"
+            FontFamily="Montserrat-Bold"
+            Clicked="btnSair_Clicked"/>
+    </AbsoluteLayout>
+</ContentPage>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="AtividadeMobile.PaginaConfirmacao"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+    <AbsoluteLayout BackgroundColor="#0f2043">
+        <Image
+            AbsoluteLayout.LayoutBounds="0.5 ,0.15, 0.65, 0.3"
+            AbsoluteLayout.LayoutFlags="All"
+            HeightRequest="270"
+            Source="triste.png" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.5, 0.5"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-SemiBold"
+            FontSize="40"
+            MaximumWidthRequest="300"
+            Text="Que pena!"
+            TextColor="red" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.5, 0.7"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-SemiBold"
+            FontSize="30"
+            MaximumWidthRequest="350"
+            Text="Sua conta foi excluída com sucesso." />
+        <Button
+            x:Name="btnSairConfirmacao"
+            AbsoluteLayout.LayoutBounds="0.5, 0.9"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            BackgroundColor="#0f2043"
+            Clicked="btnSairConfirmacao_Clicked"
+            FontFamily="Montserrat-SemiBold"
+            FontSize="22"
+            Text="Sair"
+            TextColor="#d9d9d9" />
+    </AbsoluteLayout>
+</ContentPage>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="AtividadeMobile.PaginaInicial"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <AbsoluteLayout BackgroundColor="#0f2043">
+        <Image
+            AbsoluteLayout.LayoutBounds="0.5 ,0, 0.7, 0.3"
+            AbsoluteLayout.LayoutFlags="All"
+            HeightRequest="270"
+            Source="imagem.png" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.5, 0.31"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-Bold"
+            FontSize="38"
+            Text="Bem-Vindo"
+            TextColor="#02c6fd" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.5, 0.39"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-SemiBold"
+            FontSize="19"
+            Text="Efetue seu login" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.11, 0.48"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-Light"
+            FontSize="15"
+            Text="E-mail:" />
+        <Entry
+            AbsoluteLayout.LayoutBounds="0.5, 0.54, 0.8, 0.07"
+            AbsoluteLayout.LayoutFlags="All"
+            BackgroundColor="#d6d6d6d6"
+            TextColor="#0f2043" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.11, 0.61"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-Light"
+            FontSize="15"
+            Text="Senha:" />
+        <Entry
+            AbsoluteLayout.LayoutBounds="0.5, 0.68, 0.8, 0.07"
+            AbsoluteLayout.LayoutFlags="All"
+            BackgroundColor="#d6d6d6d6"
+            IsPassword="True"
+            TextColor="#0f2043" />
+        <Button
+            x:Name="btnEntrar"
+            AbsoluteLayout.LayoutBounds="0.5, 0.82"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            BackgroundColor="#02c6fd"
+            Clicked="btnEntrar_Clicked"
+            FontAttributes="Bold"
+            FontFamily="Montserrat-SemiBold"
+            FontSize="18"
+            Text="Entrar"
+            TextColor="#0f2043" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.35, 0.92, 0.6, 0.032"
+            AbsoluteLayout.LayoutFlags="All"
+            FontFamily="Montserrat-Light"
+            FontSize="14.5"
+            Text="Não tem conta?" />
+        <Button
+            x:Name="btnCadastro"
+            AbsoluteLayout.LayoutBounds="0.9, 0.93, 0.37, 0.07"
+            BackgroundColor="#0f2043"
+            TextColor="#d9d9d9"
+            AbsoluteLayout.LayoutFlags="All"
+            Padding="0"
+            FontFamily="Montserrat-Bold"
+            FontSize="14.5"
+            Text="Cadastre-se"
+            Clicked="btnCadastro_Clicked"/>
+    </AbsoluteLayout>
+
+</ContentPage>
