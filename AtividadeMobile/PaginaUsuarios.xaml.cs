@@ -9,6 +9,6 @@ public partial class PaginaUsuarios : ContentPage
 
     private async void btnSairUsuarios_Clicked(object sender, EventArgs e)
     {
-		await Navigation.PopAsync();	
+		await Navigation.PushAsync(new PaginaEntrar());	
     }
 }

@@ -24,17 +24,17 @@ build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.PaginaCada
 build_metadata.AdditionalFiles.TargetPath = PaginaCadastro.xaml
 build_metadata.AdditionalFiles.RelativePath = PaginaCadastro.xaml
 
-[C:/Users/user/source/repos/AtividadeMobile/AtividadeMobile/PaginaConfirmacao.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.PaginaConfirmacao.xaml
-build_metadata.AdditionalFiles.TargetPath = PaginaConfirmacao.xaml
-build_metadata.AdditionalFiles.RelativePath = PaginaConfirmacao.xaml
-
 [C:/Users/user/source/repos/AtividadeMobile/AtividadeMobile/PaginaConta.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.PaginaConta.xaml
 build_metadata.AdditionalFiles.TargetPath = PaginaConta.xaml
 build_metadata.AdditionalFiles.RelativePath = PaginaConta.xaml
+
+[C:/Users/user/source/repos/AtividadeMobile/AtividadeMobile/PaginaEditar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.PaginaEditar.xaml
+build_metadata.AdditionalFiles.TargetPath = PaginaEditar.xaml
+build_metadata.AdditionalFiles.RelativePath = PaginaEditar.xaml
 
 [C:/Users/user/source/repos/AtividadeMobile/AtividadeMobile/PaginaEntrar.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

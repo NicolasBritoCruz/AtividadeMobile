@@ -2,12 +2,93 @@
 <ContentPage
     x:Class="AtividadeMobile.PaginaCadastro"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    Title="PaginaCadastro">
-    <VerticalStackLayout>
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <AbsoluteLayout BackgroundColor="#0f2043">
+        <Image
+            AbsoluteLayout.LayoutBounds="0.5 ,0, 0.7, 0.3"
+            AbsoluteLayout.LayoutFlags="All"
+            HeightRequest="270"
+            Source="imagem.png" />
         <Label
-            HorizontalOptions="Center"
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" />
-    </VerticalStackLayout>
+            AbsoluteLayout.LayoutBounds="0.5, 0.27"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-Bold"
+            FontSize="38"
+            Text="Cadastre-se"
+            TextColor="#02c6fd" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.11, 0.350"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-Light"
+            FontSize="15"
+            Text="Nome:" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.68, 0.350"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-Light"
+            FontSize="15"
+            Text="Sobrenome:" />
+        <Entry
+            AbsoluteLayout.LayoutBounds="0.16, 0.4, 0.37, 0.07"
+            AbsoluteLayout.LayoutFlags="All"
+            BackgroundColor="#d6d6d6d6"
+            TextColor="#0f2043" />
+        <Entry
+            AbsoluteLayout.LayoutBounds="0.85, 0.4, 0.37, 0.07"
+            AbsoluteLayout.LayoutFlags="All"
+            BackgroundColor="#d6d6d6d6"
+            TextColor="#0f2043" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.11, 0.48"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-Light"
+            FontSize="15"
+            Text="E-mail:" />
+        <Entry
+            AbsoluteLayout.LayoutBounds="0.5, 0.54, 0.8, 0.07"
+            AbsoluteLayout.LayoutFlags="All"
+            BackgroundColor="#d6d6d6d6"
+            TextColor="#0f2043" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.11, 0.61"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-Light"
+            FontSize="15"
+            Text="Senha:" />
+        <Entry
+            AbsoluteLayout.LayoutBounds="0.5, 0.68, 0.8, 0.07"
+            AbsoluteLayout.LayoutFlags="All"
+            BackgroundColor="#d6d6d6d6"
+            IsPassword="True"
+            TextColor="#0f2043" />
+        <Button
+            x:Name="btnEntrar"
+            AbsoluteLayout.LayoutBounds="0.5, 0.82"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            BackgroundColor="#02c6fd"
+            FontAttributes="Bold"
+            FontFamily="Montserrat-Bold"
+            FontSize="18"
+            Text="Cadastrar"
+            TextColor="#0f2043" />
+        <Label
+            AbsoluteLayout.LayoutBounds="0.55, 0.92, 0.6, 0.032"
+            AbsoluteLayout.LayoutFlags="All"
+            FontFamily="Montserrat-SemiBold"
+            FontSize="14.5"
+            Text="Já tem conta?" />
+        <Button
+            x:Name="btnLogin"
+            Padding="0"
+            AbsoluteLayout.LayoutBounds="0.78, 0.93, 0.37, 0.07"
+            AbsoluteLayout.LayoutFlags="All"
+            BackgroundColor="#0f2043"
+            Clicked="btnLogin_Clicked"
+            FontFamily="Montserrat-Bold"
+            FontSize="14.5"
+            Text="Fazer login"
+            TextColor="#d9d9d9" />
+    </AbsoluteLayout>
+
 </ContentPage>

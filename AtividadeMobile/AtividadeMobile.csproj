@@ -63,10 +63,15 @@
 	  <None Remove="Resources\Fonts\Montserrat-Bold.ttf" />
 	  <None Remove="Resources\Fonts\Montserrat-Light.ttf" />
 	  <None Remove="Resources\Fonts\Montserrat-SemiBold.ttf" />
+	  <None Remove="Resources\Images\editar.png" />
+	  <None Remove="Resources\Images\excluir.png" />
 	  <None Remove="Resources\Images\imagem.png" />
+	  <None Remove="Resources\Images\lista.png" />
 	  <None Remove="Resources\Images\logose.svg" />
+	  <None Remove="Resources\Images\rapaz.png" />
 	  <None Remove="Resources\Images\triste.png" />
-	  <None Remove="Resources\Images\userfoto.png" />
+	  <None Remove="Resources\Images\user.png" />
+	  <None Remove="Resources\Images\user2.png" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -79,10 +84,10 @@
 	  <MauiXaml Update="PaginaCadastro.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="PaginaConfirmacao.xaml">
+	  <MauiXaml Update="PaginaConta.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="PaginaConta.xaml">
+	  <MauiXaml Update="PaginaEditar.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="PaginaEntrar.xaml">

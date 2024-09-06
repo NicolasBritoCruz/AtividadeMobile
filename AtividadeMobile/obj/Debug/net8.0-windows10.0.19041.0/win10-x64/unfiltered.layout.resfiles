@@ -1,3 +1,4 @@
+Montserrat-Bold.ttf
 Montserrat-Light.ttf
 Montserrat-SemiBold.ttf
 OpenSans-Regular.ttf
@@ -48,9 +49,14 @@ appiconWideTile.scale-125.png
 appiconWideTile.scale-150.png
 appiconWideTile.scale-200.png
 appiconWideTile.scale-400.png
+editar.scale-100.png
+excluir.scale-100.png
 imagem.scale-100.png
+lista.scale-100.png
+rapaz.scale-100.png
 triste.scale-100.png
-userfoto.scale-100.png
+user.scale-100.png
+user2.scale-100.png
 splashSplashScreen.scale-100.png
 splashSplashScreen.scale-125.png
 splashSplashScreen.scale-150.png

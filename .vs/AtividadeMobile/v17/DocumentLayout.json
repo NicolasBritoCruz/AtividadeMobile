@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|c:\\users\\user\\source\\repos\\atividademobile\\atividademobile\\paginaentrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|solutionrelative:atividademobile\\paginaentrar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|c:\\users\\user\\source\\repos\\atividademobile\\atividademobile\\paginaentrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|solutionrelative:atividademobile\\paginaentrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|c:\\users\\user\\source\\repos\\atividademobile\\atividademobile\\paginausuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|solutionrelative:atividademobile\\paginausuarios.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|c:\\users\\user\\source\\repos\\atividademobile\\atividademobile\\paginainicial.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|solutionrelative:atividademobile\\paginainicial.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|c:\\users\\user\\source\\repos\\atividademobile\\atividademobile\\paginaeditar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|solutionrelative:atividademobile\\paginaeditar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|c:\\users\\user\\source\\repos\\atividademobile\\atividademobile\\paginaconta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|solutionrelative:atividademobile\\paginaconta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|c:\\users\\user\\source\\repos\\atividademobile\\atividademobile\\paginacadastro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E641350-4AF0-4329-9C76-41B8BFB6AEF8}|AtividadeMobile\\AtividadeMobile.csproj|solutionrelative:atividademobile\\paginacadastro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginaEntrar.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaEntrar.xaml",
+              "RelativeDocumentMoniker": "AtividadeMobile\\PaginaEntrar.xaml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaEntrar.xaml",
+              "RelativeToolTip": "AtividadeMobile\\PaginaEntrar.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-06T22:55:21.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaginaUsuarios.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaUsuarios.xaml.cs",
+              "RelativeDocumentMoniker": "AtividadeMobile\\PaginaUsuarios.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaUsuarios.xaml.cs",
+              "RelativeToolTip": "AtividadeMobile\\PaginaUsuarios.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T22:52:46.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaginaInicial.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaInicial.xaml.cs",
+              "RelativeDocumentMoniker": "AtividadeMobile\\PaginaInicial.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaInicial.xaml.cs",
+              "RelativeToolTip": "AtividadeMobile\\PaginaInicial.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T22:52:36.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaginaEntrar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaEntrar.xaml.cs",
+              "RelativeDocumentMoniker": "AtividadeMobile\\PaginaEntrar.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaEntrar.xaml.cs",
+              "RelativeToolTip": "AtividadeMobile\\PaginaEntrar.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T22:52:30.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaginaEditar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaEditar.xaml.cs",
+              "RelativeDocumentMoniker": "AtividadeMobile\\PaginaEditar.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaEditar.xaml.cs",
+              "RelativeToolTip": "AtividadeMobile\\PaginaEditar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T22:52:24.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PaginaConta.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaConta.xaml.cs",
+              "RelativeDocumentMoniker": "AtividadeMobile\\PaginaConta.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaConta.xaml.cs",
+              "RelativeToolTip": "AtividadeMobile\\PaginaConta.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T22:52:18.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginaCadastro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaCadastro.xaml.cs",
+              "RelativeDocumentMoniker": "AtividadeMobile\\PaginaCadastro.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\AtividadeMobile\\AtividadeMobile\\PaginaCadastro.xaml.cs",
+              "RelativeToolTip": "AtividadeMobile\\PaginaCadastro.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T22:52:11.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

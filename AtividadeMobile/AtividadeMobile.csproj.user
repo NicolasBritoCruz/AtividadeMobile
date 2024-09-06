@@ -3,8 +3,8 @@
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net8.0-android</ActiveDebugFramework>
-    <ActiveDebugProfile>Android Emulator</ActiveDebugProfile>
-    <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
+    <ActiveDebugProfile>Motorola edge 20 (Android 13.0 – API 33)</ActiveDebugProfile>
+    <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
   </PropertyGroup>
   <PropertyGroup Condition="'$(TargetPlatformIdentifier)'=='iOS'">
     <RuntimeIdentifier>ios-arm64</RuntimeIdentifier>
@@ -17,10 +17,10 @@
     <MauiXaml Update="PaginaCadastro.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="PaginaConfirmacao.xaml">
+    <MauiXaml Update="PaginaConta.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="PaginaConta.xaml">
+    <MauiXaml Update="PaginaEditar.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="PaginaEntrar.xaml">

@@ -5,35 +5,60 @@
      x:Class="AtividadeMobile.PaginaEntrar" >
 
     <AbsoluteLayout BackgroundColor="#0f2043">
+        <Image
+            AbsoluteLayout.LayoutBounds="0.105 ,0.33, 0.14, 0.2"
+            AbsoluteLayout.LayoutFlags="All" 
+            Source="user.png" />
+        <Image
+            AbsoluteLayout.LayoutBounds="0.105 ,0.553, 0.14, 0.2"
+            AbsoluteLayout.LayoutFlags="All"
+            Source="lista.png" />
         <Label
-            AbsoluteLayout.LayoutBounds="0.5, 0.04" 
+            AbsoluteLayout.LayoutBounds="0.5, 0" 
+            TextColor="#02c6fd"
             AbsoluteLayout.LayoutFlags="PositionProportional"
             Text="Página Inicial"
-            FontSize="30"
+            FontSize="23"
             FontFamily="Montserrat-Bold"/>
+        <Label
+            AbsoluteLayout.LayoutBounds="0.14, 0.15" 
+            TextColor="#02c6fd"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            Text="Olá, Pablo!"
+            FontSize="21"
+            FontFamily="Montserrat-Bold"/>
+        <Label
+            AbsoluteLayout.LayoutBounds="0.275, 0.19" 
+            TextColor="#d9d9d9"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            Text="O que você deseja fazer hoje?"
+            FontSize="18"
+            FontFamily="Montserrat-SemiBold"/>
         <Button
             x:Name="btnConta" 
             Text="Minha Conta" 
-            AbsoluteLayout.LayoutBounds="0.5, 0.2" 
-            AbsoluteLayout.LayoutFlags="PositionProportional" 
-            FontSize="22" 
-            TextColor="#0f2043" 
-            BackgroundColor="#d9d9d9" 
-            FontFamily="Montserrat-SemiBold" 
-            Padding="85, 0"
-            Clicked="btnConta_Clicked"/>
-           
+            AbsoluteLayout.LayoutBounds="0.75, 0.35, 0.6, 0.09" 
+            AbsoluteLayout.LayoutFlags="All" 
+            FontSize="21" 
+            TextColor="#d9d9d9" 
+            BackgroundColor="#0f2043" 
+            FontFamily="Montserrat-Bold" 
+            Clicked="btnConta_Clicked"
+            BorderColor="#02c6fd"
+            BorderWidth="1"/>
         <Button 
             x:Name="btnUsuarios"
-            Text="Usuários Cadastrados"
-            AbsoluteLayout.LayoutBounds="0.5, 0.32" 
-            AbsoluteLayout.LayoutFlags="PositionProportional"
-            FontSize="22" 
-            TextColor="#0f2043" 
-            BackgroundColor="#d9d9d9"
-            FontFamily="Montserrat-SemiBold" 
+            Text="Usuários"
+            AbsoluteLayout.LayoutBounds="0.75, 0.55, 0.6, 0.09" 
+            AbsoluteLayout.LayoutFlags="All"
+            FontSize="21" 
+            TextColor="#d9d9d9" 
+            BackgroundColor="#0f2043"
+            FontFamily="Montserrat-Bold" 
             Padding="35, 0"
-            Clicked="btnUsuarios_Clicked"/>
+            Clicked="btnUsuarios_Clicked"
+            BorderColor="#02c6fd"
+            BorderWidth="1"/>
         <Button 
             x:Name="btnSair"
             Text="Sair"

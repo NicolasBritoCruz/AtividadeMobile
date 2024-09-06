@@ -16,4 +16,9 @@ public partial class PaginaInicial : ContentPage
     {
         await Navigation.PushAsync(new PaginaCadastro());
     }
+
+    private void btnEsquecer_Clicked(object sender, EventArgs e)
+    {
+
+    }
 }

@@ -55,6 +55,9 @@
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Montserrat-Bold.ttf">
+      <PackagePath>Montserrat-Bold.ttf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Montserrat-Light.ttf">
       <PackagePath>Montserrat-Light.ttf</PackagePath>
     </AppxPackagedFile>
@@ -205,14 +208,29 @@
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\editar.scale-100.png">
+      <PackagePath>editar.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\excluir.scale-100.png">
+      <PackagePath>excluir.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\imagem.scale-100.png">
       <PackagePath>imagem.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lista.scale-100.png">
+      <PackagePath>lista.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\rapaz.scale-100.png">
+      <PackagePath>rapaz.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\triste.scale-100.png">
       <PackagePath>triste.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\userfoto.scale-100.png">
-      <PackagePath>userfoto.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png">
+      <PackagePath>user.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user2.scale-100.png">
+      <PackagePath>user2.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AtividadeMobile.deps.json">
       <PackagePath>AtividadeMobile.deps.json</PackagePath>

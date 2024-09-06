@@ -1,6 +1,11 @@
-﻿obj\Debug\net8.0-android\resizetizer\r\drawable\imagem.png
+﻿obj\Debug\net8.0-android\resizetizer\r\drawable\editar.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\excluir.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\imagem.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\lista.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\rapaz.png
 obj\Debug\net8.0-android\resizetizer\r\drawable\triste.png
-obj\Debug\net8.0-android\resizetizer\r\drawable\userfoto.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\user.png
+obj\Debug\net8.0-android\resizetizer\r\drawable\user2.png
 obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon.xml
 obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\appicon_round.xml
 obj\Debug\net8.0-android\resizetizer\r\mipmap-hdpi\appicon.png

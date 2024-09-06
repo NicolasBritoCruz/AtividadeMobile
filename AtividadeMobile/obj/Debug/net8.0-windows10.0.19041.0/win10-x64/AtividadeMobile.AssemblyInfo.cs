@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtividadeMobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+16482bb9e385b243b1292d9ce7eb943a4896f895")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtividadeMobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtividadeMobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

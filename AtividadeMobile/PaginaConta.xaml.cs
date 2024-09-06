@@ -6,13 +6,13 @@ public partial class PaginaConta : ContentPage
     {
         InitializeComponent();
     }
-    private void btnSair2_Clicked(object sender, EventArgs e)
+    private async void btnSair2_Clicked(object sender, EventArgs e)
     {
-        Navigation.PopAsync();
-    }
+        await Navigation.PushAsync(new PaginaEntrar());
+    } 
 
-    private async void btnExcluir_Clicked(object sender, EventArgs e)
+    private async void btnEditar_Clicked(object sender, EventArgs e)
     {
-        await Navigation.PushAsync(new PaginaConfirmacao());
+        await Navigation.PushAsync(new PaginaEditar());
     }
 }

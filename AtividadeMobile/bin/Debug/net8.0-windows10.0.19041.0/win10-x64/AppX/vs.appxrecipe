@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-01T14:25:26.516</Modified>
+      <Modified>2024-09-06T22:41:57.732</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-01T14:21:32.374</Modified>
+      <Modified>2024-09-06T22:24:09.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AtividadeMobile.runtimeconfig.json">
       <PackagePath>AtividadeMobile.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AtividadeMobile.dll">
       <PackagePath>AtividadeMobile.dll</PackagePath>
-      <Modified>2024-09-01T14:25:26.016</Modified>
+      <Modified>2024-09-06T22:41:56.216</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AtividadeMobile.exe</PackagePath>
-      <Modified>2024-09-01T14:25:26.032</Modified>
+      <Modified>2024-09-06T22:41:56.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,27 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-09-01T13:59:16.616</Modified>
+      <Modified>2024-09-01T14:55:01.753</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-09-01T13:59:16.647</Modified>
+      <Modified>2024-09-01T14:55:01.815</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-09-01T13:59:16.679</Modified>
+      <Modified>2024-09-01T14:55:01.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-09-01T13:59:16.726</Modified>
+      <Modified>2024-09-01T14:55:02.018</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-09-01T13:59:16.929</Modified>
+      <Modified>2024-09-01T14:55:02.440</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Montserrat-Bold.ttf">
+      <PackagePath>Montserrat-Bold.ttf</PackagePath>
+      <Modified>2024-08-12T23:23:36.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Montserrat-Light.ttf">
       <PackagePath>Montserrat-Light.ttf</PackagePath>
@@ -92,203 +96,223 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-09-01T14:21:05.240</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.240</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.240</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.240</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.240</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\editar.scale-100.png">
+      <PackagePath>editar.scale-100.png</PackagePath>
+      <Modified>2024-09-06T21:46:01.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\excluir.scale-100.png">
+      <PackagePath>excluir.scale-100.png</PackagePath>
+      <Modified>2024-09-06T21:46:01.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\imagem.scale-100.png">
       <PackagePath>imagem.scale-100.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\lista.scale-100.png">
+      <PackagePath>lista.scale-100.png</PackagePath>
+      <Modified>2024-09-06T21:46:01.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\rapaz.scale-100.png">
+      <PackagePath>rapaz.scale-100.png</PackagePath>
+      <Modified>2024-09-06T21:46:01.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\triste.scale-100.png">
       <PackagePath>triste.scale-100.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+      <Modified>2024-09-06T21:46:01.902</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\userfoto.scale-100.png">
-      <PackagePath>userfoto.scale-100.png</PackagePath>
-      <Modified>2024-09-01T14:21:05.224</Modified>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user.scale-100.png">
+      <PackagePath>user.scale-100.png</PackagePath>
+      <Modified>2024-09-06T21:46:01.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\user2.scale-100.png">
+      <PackagePath>user2.scale-100.png</PackagePath>
+      <Modified>2024-09-06T21:46:01.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AtividadeMobile.deps.json">
       <PackagePath>AtividadeMobile.deps.json</PackagePath>
-      <Modified>2024-09-01T14:21:32.045</Modified>
+      <Modified>2024-09-06T22:24:09.572</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
