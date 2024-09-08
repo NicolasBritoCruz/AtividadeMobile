@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-06T22:41:57.732</Modified>
+      <Modified>2024-09-08T15:44:49.701</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-06T22:24:09.900</Modified>
+      <Modified>2024-09-08T15:40:40.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AtividadeMobile.runtimeconfig.json">
       <PackagePath>AtividadeMobile.runtimeconfig.json</PackagePath>
-      <Modified>2024-08-30T23:57:39.597</Modified>
+      <Modified>2024-09-08T14:38:09.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AtividadeMobile.dll">
       <PackagePath>AtividadeMobile.dll</PackagePath>
-      <Modified>2024-09-06T22:41:56.216</Modified>
+      <Modified>2024-09-08T15:44:49.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AtividadeMobile.exe</PackagePath>
-      <Modified>2024-09-06T22:41:56.294</Modified>
+      <Modified>2024-09-08T15:44:49.044</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -312,7 +312,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AtividadeMobile.deps.json">
       <PackagePath>AtividadeMobile.deps.json</PackagePath>
-      <Modified>2024-09-06T22:24:09.572</Modified>
+      <Modified>2024-09-08T15:40:40.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -321,6 +321,14 @@
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2024-07-08T09:23:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\communitytoolkit.maui\9.0.3\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.dll">
+      <PackagePath>CommunityToolkit.Maui.dll</PackagePath>
+      <Modified>2024-08-16T18:03:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\communitytoolkit.maui.core\9.0.3\lib\net8.0-windows10.0.19041\CommunityToolkit.Maui.Core.dll">
+      <PackagePath>CommunityToolkit.Maui.Core.dll</PackagePath>
+      <Modified>2024-08-16T18:03:26.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -449,6 +457,10 @@
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.windowsappsdk\1.5.240607001\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2024-06-07T17:05:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\user\.nuget\packages\system.speech\8.0.0\runtimes\win\lib\net8.0\System.Speech.dll">
+      <PackagePath>System.Speech.dll</PackagePath>
+      <Modified>2023-10-31T15:00:06.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.maui.controls.core\8.0.72\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>

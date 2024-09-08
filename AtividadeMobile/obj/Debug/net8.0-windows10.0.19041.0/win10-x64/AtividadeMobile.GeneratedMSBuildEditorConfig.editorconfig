@@ -54,6 +54,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.PaginaUsua
 build_metadata.AdditionalFiles.TargetPath = PaginaUsuarios.xaml
 build_metadata.AdditionalFiles.RelativePath = PaginaUsuarios.xaml
 
+[C:/Users/user/source/repos/AtividadeMobile/AtividadeMobile/PopupCadastro.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.PopupCadastro.xaml
+build_metadata.AdditionalFiles.TargetPath = PopupCadastro.xaml
+build_metadata.AdditionalFiles.RelativePath = PopupCadastro.xaml
+
+[C:/Users/user/source/repos/AtividadeMobile/AtividadeMobile/PopupSenha.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.PopupSenha.xaml
+build_metadata.AdditionalFiles.TargetPath = PopupSenha.xaml
+build_metadata.AdditionalFiles.RelativePath = PopupSenha.xaml
+
 [C:/Users/user/source/repos/AtividadeMobile/AtividadeMobile/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.Resources.Styles.Colors.xaml

@@ -11,4 +11,9 @@ public partial class PaginaCadastro : ContentPage
     {
         await Navigation.PushAsync(new PaginaInicial());
     }
+
+    private async void btnCadastrar_Clicked(object sender, EventArgs e)
+    {
+        await Navigation.PushAsync(new PaginaInicial());
+    }
 }

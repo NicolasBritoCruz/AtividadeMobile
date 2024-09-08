@@ -15,4 +15,11 @@ public partial class PaginaConta : ContentPage
     {
         await Navigation.PushAsync(new PaginaEditar());
     }
+
+    private async void btnExcluir_Clicked(object sender, EventArgs e)
+    {
+        {
+            await Navigation.PushAsync(new PopupCadastro());  
+        }
+    }
 }

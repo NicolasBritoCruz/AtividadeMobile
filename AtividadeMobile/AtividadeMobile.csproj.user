@@ -32,6 +32,12 @@
     <MauiXaml Update="PaginaUsuarios.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="PopupCadastro.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="PopupSenha.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
   </ItemGroup>
   <ItemGroup>
     <None Update="App.xaml">

@@ -63,7 +63,7 @@
             IsPassword="True"
             TextColor="#0f2043" />
         <Button
-            x:Name="btnEntrar"
+            x:Name="btnCadastrar"
             AbsoluteLayout.LayoutBounds="0.5, 0.82"
             AbsoluteLayout.LayoutFlags="PositionProportional"
             BackgroundColor="#02c6fd"
@@ -71,7 +71,8 @@
             FontFamily="Montserrat-Bold"
             FontSize="18"
             Text="Cadastrar"
-            TextColor="#0f2043" />
+            TextColor="#0f2043" 
+            Clicked="btnCadastrar_Clicked"/>
         <Label
             AbsoluteLayout.LayoutBounds="0.55, 0.92, 0.6, 0.032"
             AbsoluteLayout.LayoutFlags="All"
