@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-09-08T15:44:49.701</Modified>
+      <Modified>2024-09-10T21:24:58.396</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-09-08T15:40:40.617</Modified>
+      <Modified>2024-09-10T21:24:57.704</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AtividadeMobile.runtimeconfig.json">
       <PackagePath>AtividadeMobile.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AtividadeMobile.dll">
       <PackagePath>AtividadeMobile.dll</PackagePath>
-      <Modified>2024-09-08T15:44:49.044</Modified>
+      <Modified>2024-09-10T21:24:53.705</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>AtividadeMobile.exe</PackagePath>
-      <Modified>2024-09-08T15:44:49.044</Modified>
+      <Modified>2024-09-10T21:24:53.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -312,7 +312,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\source\repos\AtividadeMobile\AtividadeMobile\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AtividadeMobile.deps.json">
       <PackagePath>AtividadeMobile.deps.json</PackagePath>
-      <Modified>2024-09-08T15:40:40.274</Modified>
+      <Modified>2024-09-10T21:24:57.219</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\user\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.34\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

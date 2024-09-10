@@ -14,7 +14,7 @@
             AbsoluteLayout.LayoutFlags="All"
             Source="lista.png" />
         <Label
-            AbsoluteLayout.LayoutBounds="0.5, 0" 
+            AbsoluteLayout.LayoutBounds="0.5, 0.05" 
             TextColor="#02c6fd"
             AbsoluteLayout.LayoutFlags="PositionProportional"
             Text="Página Inicial"

@@ -5,15 +5,11 @@ public partial class PopupCadastro : ContentPage
 	public PopupCadastro()
 	{
 		InitializeComponent();
-	}
-
-    private async void btnSim_Clicked(object sender, EventArgs e)
-    {
-		await Navigation.PushAsync(new PaginaInicial());
+        NavigationPage.SetHasNavigationBar(this, false);
     }
 
-    private async void btnNao_Clicked(object sender, EventArgs e)
+    private async void btnOk_Clicked(object sender, EventArgs e)
     {
-        await Navigation.PushAsync(new PaginaConta());
+		await Navigation.PushAsync(new PaginaInicial());
     }
 }

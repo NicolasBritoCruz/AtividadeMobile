@@ -5,6 +5,7 @@ public partial class PaginaCadastro : ContentPage
     public PaginaCadastro()
     {
         InitializeComponent();
+        NavigationPage.SetHasNavigationBar(this, false);
     }
 
     private async void btnLogin_Clicked(object sender, EventArgs e)

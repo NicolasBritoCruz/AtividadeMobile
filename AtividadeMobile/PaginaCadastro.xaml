@@ -76,7 +76,7 @@
         <Label
             AbsoluteLayout.LayoutBounds="0.55, 0.92, 0.6, 0.032"
             AbsoluteLayout.LayoutFlags="All"
-            FontFamily="Montserrat-SemiBold"
+            FontFamily="Montserrat-Light"
             FontSize="14.5"
             Text="Já tem conta?" />
         <Button

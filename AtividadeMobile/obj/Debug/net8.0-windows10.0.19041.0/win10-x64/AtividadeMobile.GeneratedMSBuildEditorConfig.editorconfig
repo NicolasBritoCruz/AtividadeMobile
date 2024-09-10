@@ -60,6 +60,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.PopupCadas
 build_metadata.AdditionalFiles.TargetPath = PopupCadastro.xaml
 build_metadata.AdditionalFiles.RelativePath = PopupCadastro.xaml
 
+[C:/Users/user/source/repos/AtividadeMobile/AtividadeMobile/PopupEditar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.PopupEditar.xaml
+build_metadata.AdditionalFiles.TargetPath = PopupEditar.xaml
+build_metadata.AdditionalFiles.RelativePath = PopupEditar.xaml
+
 [C:/Users/user/source/repos/AtividadeMobile/AtividadeMobile/PopupSenha.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AtividadeMobile.PopupSenha.xaml

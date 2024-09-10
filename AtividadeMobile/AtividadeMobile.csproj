@@ -103,6 +103,9 @@
 	  <MauiXaml Update="PopupCadastro.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="PopupEditar.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="PopupSenha.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>

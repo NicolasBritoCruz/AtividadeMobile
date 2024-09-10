@@ -5,6 +5,7 @@ public partial class PaginaConta : ContentPage
     public PaginaConta()
     {
         InitializeComponent();
+        NavigationPage.SetHasNavigationBar(this, false);
     }
     private async void btnSair2_Clicked(object sender, EventArgs e)
     {

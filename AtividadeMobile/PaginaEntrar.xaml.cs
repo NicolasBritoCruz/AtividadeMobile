@@ -5,7 +5,8 @@ public partial class PaginaEntrar : ContentPage
 	public PaginaEntrar()
 	{
         InitializeComponent();
-	}
+        NavigationPage.SetHasNavigationBar(this, false);
+    }
     private async void btnSair_Clicked(object sender, EventArgs e)
     {
 		await Navigation.PushAsync(new PaginaInicial());
