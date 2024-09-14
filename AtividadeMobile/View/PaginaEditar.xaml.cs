@@ -18,7 +18,7 @@ public partial class PaginaEditar : ContentPage
         txtNomeLabel.Text = usuarioAtual.Nome;
         txtEmailLabel.Text = usuarioAtual.Email;
         txtNomeEntry.Placeholder = usuarioAtual.Nome;
-        txtSobrenomeEntry.Placeholder = usuarioAtual.Email;
+        txtSobrenomeEntry.Placeholder = usuarioAtual.Sobrenome;
     }
 
     private async void btnSair3_Clicked(object sender, EventArgs e)
