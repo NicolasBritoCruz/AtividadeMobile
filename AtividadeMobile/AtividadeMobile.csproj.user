@@ -3,8 +3,8 @@
   <PropertyGroup>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
     <ActiveDebugFramework>net8.0-android</ActiveDebugFramework>
-    <ActiveDebugProfile>Motorola edge 20 (Android 13.0 – API 33)</ActiveDebugProfile>
-    <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
+    <ActiveDebugProfile>Android Emulator</ActiveDebugProfile>
+    <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
   </PropertyGroup>
   <PropertyGroup Condition="'$(TargetPlatformIdentifier)'=='iOS'">
     <RuntimeIdentifier>ios-arm64</RuntimeIdentifier>
@@ -14,31 +14,31 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
-    <MauiXaml Update="PaginaCadastro.xaml">
+    <MauiXaml Update="View\PaginaCadastro.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="PaginaConta.xaml">
+    <MauiXaml Update="View\PaginaConta.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="PaginaEditar.xaml">
+    <MauiXaml Update="View\PaginaEditar.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="PaginaEntrar.xaml">
+    <MauiXaml Update="View\PaginaEntrar.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="PaginaInicial.xaml">
+    <MauiXaml Update="View\PaginaInicial.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="PaginaUsuarios.xaml">
+    <MauiXaml Update="View\PaginaUsuarios.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="PopupCadastro.xaml">
+    <MauiXaml Update="View\PopupCadastro.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="PopupEditar.xaml">
+    <MauiXaml Update="View\PopupEditar.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="PopupSenha.xaml">
+    <MauiXaml Update="View\PopupSenha.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
