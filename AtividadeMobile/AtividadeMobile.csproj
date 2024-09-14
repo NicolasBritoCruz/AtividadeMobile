@@ -79,34 +79,37 @@
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Maui.Controls.Compatibility" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0" />
+		<PackageReference Include="sqlite-net-pcl" Version="1.9.172" />
+		<PackageReference Include="SQLitePCLRaw.bundle_green" Version="2.1.10" />
+		<PackageReference Include="SQLitePCLRaw.core" Version="2.1.10" />
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="PaginaCadastro.xaml">
+	  <MauiXaml Update="View\PaginaCadastro.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="PaginaConta.xaml">
+	  <MauiXaml Update="View\PaginaConta.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="PaginaEditar.xaml">
+	  <MauiXaml Update="View\PaginaEditar.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="PaginaEntrar.xaml">
+	  <MauiXaml Update="View\PaginaEntrar.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="PaginaInicial.xaml">
+	  <MauiXaml Update="View\PaginaInicial.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="PaginaUsuarios.xaml">
+	  <MauiXaml Update="View\PaginaUsuarios.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="PopupCadastro.xaml">
+	  <MauiXaml Update="View\PopupCadastro.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="PopupEditar.xaml">
+	  <MauiXaml Update="View\PopupEditar.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="PopupSenha.xaml">
+	  <MauiXaml Update="View\PopupSenha.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>
