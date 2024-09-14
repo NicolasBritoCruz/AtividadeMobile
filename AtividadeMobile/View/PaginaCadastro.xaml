@@ -68,15 +68,16 @@
             TextColor="#0f2043" />
         <Label
             x:Name="txtErro"
-            AbsoluteLayout.LayoutBounds="0.11, 0.350"
+            AbsoluteLayout.LayoutBounds="0.5, 0.747"
             AbsoluteLayout.LayoutFlags="PositionProportional"
-            FontFamily="Montserrat-Light"
+            FontFamily="Montserrat-SemiBold"
             FontSize="15"
             IsVisible="False"
-            Text="" />
+            Text=""
+            TextColor="#ec3925"/>
         <Button
             x:Name="btnCadastrar"
-            AbsoluteLayout.LayoutBounds="0.5, 0.82"
+            AbsoluteLayout.LayoutBounds="0.5, 0.83"
             AbsoluteLayout.LayoutFlags="PositionProportional"
             BackgroundColor="#02c6fd"
             Clicked="btnCadastrar_Clicked"

@@ -30,6 +30,7 @@
             FontSize="15"
             Text="E-mail:" />
         <Entry
+            x:Name="txtEmail"
             AbsoluteLayout.LayoutBounds="0.5, 0.51, 0.8, 0.07"
             AbsoluteLayout.LayoutFlags="All"
             BackgroundColor="#d6d6d6d6"
@@ -41,6 +42,7 @@
             FontSize="15"
             Text="Senha:" />
         <Entry
+            x:Name="txtSenha"
             AbsoluteLayout.LayoutBounds="0.5, 0.65, 0.8, 0.07"
             AbsoluteLayout.LayoutFlags="All"
             BackgroundColor="#d6d6d6d6"
@@ -57,9 +59,18 @@
             FontSize="14.5"
             Text="Esqueceu sua senha?"
             TextColor="#d9d9d9" />
+        <Label
+            x:Name="txtErro"
+            AbsoluteLayout.LayoutBounds="0.5, 0.763"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-SemiBold"
+            FontSize="15"
+            IsVisible="False"
+            Text=""
+            TextColor="#ec3925" />
         <Button
             x:Name="btnEntrar"
-            AbsoluteLayout.LayoutBounds="0.5, 0.81"
+            AbsoluteLayout.LayoutBounds="0.5, 0.84"
             AbsoluteLayout.LayoutFlags="PositionProportional"
             BackgroundColor="#02c6fd"
             Clicked="btnEntrar_Clicked"

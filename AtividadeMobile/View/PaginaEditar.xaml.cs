@@ -15,6 +15,10 @@ public partial class PaginaEditar : ContentPage
         NavigationPage.SetHasNavigationBar(this, false);
         UsuarioAtual = usuarioAtual;
         _cadastroServices = new CadastroServices();
+        txtNomeLabel.Text = usuarioAtual.Nome;
+        txtEmailLabel.Text = usuarioAtual.Email;
+        txtNomeEntry.Placeholder = usuarioAtual.Nome;
+        txtSobrenomeEntry.Placeholder = usuarioAtual.Email;
     }
 
     private async void btnSair3_Clicked(object sender, EventArgs e)
@@ -24,9 +28,21 @@ public partial class PaginaEditar : ContentPage
 
     private async void btnConfirmar_Clicked(object sender, EventArgs e)
     {
-        UsuarioAtual.Nome = txtNome.Text;
-        UsuarioAtual.Sobrenome = txtSobrenome.Text;
-        _cadastroServices.AtualizarCadastro(UsuarioAtual);
-        await Navigation.PushAsync(new PopupEditar(UsuarioAtual));
+
+        string Nome = txtNomeEntry.Text;
+        string Sobrenome = txtSobrenomeEntry.Text;
+        if (string.IsNullOrEmpty(Nome) || string.IsNullOrEmpty(Sobrenome))
+        {
+            txtErro.Text = "Erro: Preencha todos os campos!";
+            txtErro.IsVisible = true;
+            return;
+        }
+        else
+        {
+            UsuarioAtual.Nome = Nome;
+            UsuarioAtual.Sobrenome = Sobrenome;
+            _cadastroServices.AtualizarCadastro(UsuarioAtual);
+            await Navigation.PushAsync(new PopupEditar(UsuarioAtual));
+        }
     }
 }

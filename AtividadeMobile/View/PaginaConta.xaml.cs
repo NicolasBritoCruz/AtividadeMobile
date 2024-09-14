@@ -14,6 +14,8 @@ public partial class PaginaConta : ContentPage
         NavigationPage.SetHasNavigationBar(this, false);
         UsuarioAtual = usuarioAtual;
         _cadastroServices = new CadastroServices();
+        txtNome.Text = UsuarioAtual.Nome;
+        txtEmail.Text = UsuarioAtual.Email;
 
     }
     private async void btnSair2_Clicked(object sender, EventArgs e)

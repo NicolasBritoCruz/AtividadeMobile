@@ -27,18 +27,20 @@
             HeightRequest="270"
             Source="excluir.png" />
         <Label
+            x:Name="txtNome"
             AbsoluteLayout.LayoutBounds="0.5, 0.315"
             AbsoluteLayout.LayoutFlags="PositionProportional"
             FontFamily="Montserrat-Bold"
             FontSize="24"
-            Text="Pablo Marçal"
+            Text=""
             TextColor="#02c6fd" />
         <Label
+            x:Name="txtEmail"
             AbsoluteLayout.LayoutBounds="0.5, 0.35"
             AbsoluteLayout.LayoutFlags="PositionProportional"
             FontFamily="Montserrat-Bold"
             FontSize="18"
-            Text="pablomarcalprefeitodesp.com.br"
+            Text=""
             TextColor="#d9d9d9" />
         <Image
             AbsoluteLayout.LayoutBounds="0.5,0, 0.35, 0.4"
@@ -64,11 +66,11 @@
             BackgroundColor="#0f2043"
             BorderColor="#02c6fd"
             BorderWidth="1"
+            Clicked="btnExcluir_Clicked"
             FontFamily="Montserrat-Bold"
             FontSize="20"
             Text="Excluir Conta"
-            TextColor="#d9d9d9"
-            Clicked="btnExcluir_Clicked"/>
+            TextColor="#d9d9d9" />
         <Button
             x:Name="btnSair2"
             AbsoluteLayout.LayoutBounds="0.5, 0.9"

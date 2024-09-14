@@ -12,25 +12,32 @@
             FontSize="22"
             Text="Usuários Cadastrados"
             TextColor="#02c6fd" />
-        <Image
-            AbsoluteLayout.LayoutBounds="0.07 ,0.23, 0.12, 0"
+        <CollectionView
+            x:Name="ListagemUsuarios"
+            AbsoluteLayout.LayoutBounds="0.5, 0.3, 0.9, 0.5"
             AbsoluteLayout.LayoutFlags="All"
-            HeightRequest="270"
-            Source="user2.png" />
-        <Label
-            AbsoluteLayout.LayoutBounds="0.4, 0.22, 0.5, 00.1"
-            AbsoluteLayout.LayoutFlags="All"
-            FontFamily="Montserrat-Bold"
-            FontSize="22"
-            Text="Pablo Marçal"
-            TextColor="#02c6fd" />
-        <Label
-            AbsoluteLayout.LayoutBounds="1, 0.26, 0.796, 0.1"
-            AbsoluteLayout.LayoutFlags="All"
-            FontFamily="Montserrat-Bold"
-            FontSize="15"
-            Text="pablomarcal@prefeitodesp.com.br"
-            TextColor="#d9d9d9" />
+            ItemsLayout="VerticalList"
+            SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <HorizontalStackLayout>
+                        <Image HeightRequest="50" Source="user2.png" />
+                        <VerticalStackLayout Padding="10">
+                            <Label
+                                FontFamily="Montserrat-Bold"
+                                FontSize="18"
+                                Text="{Binding Nome}"
+                                TextColor="#02c6fd" />
+                            <Label
+                                FontFamily="Montserrat-SemiBold"
+                                FontSize="16"
+                                Text="{Binding Email}"
+                                TextColor="#d9d9d9" />
+                        </VerticalStackLayout>
+                    </HorizontalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
         <Button
             x:Name="btnSairUsuarios"
             AbsoluteLayout.LayoutBounds="0.5, 0.9"

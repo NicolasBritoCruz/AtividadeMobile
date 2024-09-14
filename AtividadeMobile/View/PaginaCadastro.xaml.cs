@@ -28,17 +28,18 @@ public partial class PaginaCadastro : ContentPage
 
         if (string.IsNullOrEmpty(nome) || string.IsNullOrEmpty(sobrenome) || string.IsNullOrEmpty(email) || string.IsNullOrEmpty(senha))
         {
-            //VERIFICAR FORMATO EMAIL
-            if (!email.Contains("@") || !email.Contains(".com"))
-            {
-                txtErro.IsVisible = true;
-                txtErro.Text = "Erro: Email inválido!";
-                return;
-            }
             txtErro.IsVisible = true;
             txtErro.Text = "Erro: Preencha todos os campos!";
             return;
 
+        }
+
+        //VERIFICAR FORMATO EMAIL
+        if (!email.Contains("@") || !email.Contains("."))
+        {
+            txtErro.IsVisible = true;
+            txtErro.Text = "Erro: Email inválido!";
+            return;
         }
 
         Cadastro cadastro = new Cadastro

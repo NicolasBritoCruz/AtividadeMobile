@@ -10,6 +10,7 @@ public partial class PaginaEntrar : ContentPage
         InitializeComponent();
         NavigationPage.SetHasNavigationBar(this, false);
         UsuarioAtual = usuarioAtual;
+        txtNome.Text = "Olá, " + usuarioAtual.Nome;
 
     }
     private async void btnSair_Clicked(object sender, EventArgs e)
