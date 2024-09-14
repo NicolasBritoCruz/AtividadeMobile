@@ -30,11 +30,13 @@
             FontSize="15"
             Text="Sobrenome:" />
         <Entry
+            x:Name="txtNome"
             AbsoluteLayout.LayoutBounds="0.16, 0.4, 0.37, 0.07"
             AbsoluteLayout.LayoutFlags="All"
             BackgroundColor="#d6d6d6d6"
             TextColor="#0f2043" />
         <Entry
+            x:Name="txtSobrenome"
             AbsoluteLayout.LayoutBounds="0.85, 0.4, 0.37, 0.07"
             AbsoluteLayout.LayoutFlags="All"
             BackgroundColor="#d6d6d6d6"
@@ -46,6 +48,7 @@
             FontSize="15"
             Text="E-mail:" />
         <Entry
+            x:Name="txtEmail"
             AbsoluteLayout.LayoutBounds="0.5, 0.54, 0.8, 0.07"
             AbsoluteLayout.LayoutFlags="All"
             BackgroundColor="#d6d6d6d6"
@@ -57,22 +60,31 @@
             FontSize="15"
             Text="Senha:" />
         <Entry
+            x:Name="txtSenha"
             AbsoluteLayout.LayoutBounds="0.5, 0.68, 0.8, 0.07"
             AbsoluteLayout.LayoutFlags="All"
             BackgroundColor="#d6d6d6d6"
             IsPassword="True"
             TextColor="#0f2043" />
+        <Label
+            x:Name="txtErro"
+            AbsoluteLayout.LayoutBounds="0.11, 0.350"
+            AbsoluteLayout.LayoutFlags="PositionProportional"
+            FontFamily="Montserrat-Light"
+            FontSize="15"
+            IsVisible="False"
+            Text="" />
         <Button
             x:Name="btnCadastrar"
             AbsoluteLayout.LayoutBounds="0.5, 0.82"
             AbsoluteLayout.LayoutFlags="PositionProportional"
             BackgroundColor="#02c6fd"
+            Clicked="btnCadastrar_Clicked"
             FontAttributes="Bold"
             FontFamily="Montserrat-Bold"
             FontSize="18"
             Text="Cadastrar"
-            TextColor="#0f2043" 
-            Clicked="btnCadastrar_Clicked"/>
+            TextColor="#0f2043" />
         <Label
             AbsoluteLayout.LayoutBounds="0.55, 0.92, 0.6, 0.032"
             AbsoluteLayout.LayoutFlags="All"
