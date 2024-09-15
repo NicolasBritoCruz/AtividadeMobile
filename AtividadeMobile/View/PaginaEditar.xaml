@@ -51,24 +51,28 @@
             AbsoluteLayout.LayoutFlags="PositionProportional"
             FontFamily="Montserrat-Light"
             FontSize="15"
-            Text="Nome:" />
+            Text="Nome:"
+            TextColor="#d2d2d2" />
         <Label
             AbsoluteLayout.LayoutBounds="0.32, 0.57"
             AbsoluteLayout.LayoutFlags="PositionProportional"
             FontFamily="Montserrat-Light"
             FontSize="15"
-            Text="Sobrenome:" />
+            Text="Sobrenome:"
+            TextColor="#d2d2d2" />
         <Entry
             x:Name="txtNomeEntry"
             AbsoluteLayout.LayoutBounds="0.5, 0.49, 0.5, 0.08"
             AbsoluteLayout.LayoutFlags="All"
             BackgroundColor="#d6d6d6d6"
+            PlaceholderColor="#0f2043"
             TextColor="#0f2043" />
         <Entry
             x:Name="txtSobrenomeEntry"
             AbsoluteLayout.LayoutBounds="0.5, 0.65, 0.5, 0.08"
             AbsoluteLayout.LayoutFlags="All"
             BackgroundColor="#d6d6d6d6"
+            PlaceholderColor="#0f2043"
             TextColor="#0f2043" />
         <Label
             x:Name="txtErro"

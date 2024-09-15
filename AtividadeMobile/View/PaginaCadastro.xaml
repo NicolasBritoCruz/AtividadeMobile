@@ -22,13 +22,15 @@
             AbsoluteLayout.LayoutFlags="PositionProportional"
             FontFamily="Montserrat-Light"
             FontSize="15"
-            Text="Nome:" />
+            Text="Nome:"
+            TextColor="#d2d2d2" />
         <Label
             AbsoluteLayout.LayoutBounds="0.68, 0.350"
             AbsoluteLayout.LayoutFlags="PositionProportional"
             FontFamily="Montserrat-Light"
             FontSize="15"
-            Text="Sobrenome:" />
+            Text="Sobrenome:"
+            TextColor="#d2d2d2" />
         <Entry
             x:Name="txtNome"
             AbsoluteLayout.LayoutBounds="0.16, 0.4, 0.37, 0.07"
@@ -46,7 +48,8 @@
             AbsoluteLayout.LayoutFlags="PositionProportional"
             FontFamily="Montserrat-Light"
             FontSize="15"
-            Text="E-mail:" />
+            Text="E-mail:"
+            TextColor="#d2d2d2" />
         <Entry
             x:Name="txtEmail"
             AbsoluteLayout.LayoutBounds="0.5, 0.54, 0.8, 0.07"
@@ -58,7 +61,8 @@
             AbsoluteLayout.LayoutFlags="PositionProportional"
             FontFamily="Montserrat-Light"
             FontSize="15"
-            Text="Senha:" />
+            Text="Senha:"
+            TextColor="#d2d2d2" />
         <Entry
             x:Name="txtSenha"
             AbsoluteLayout.LayoutBounds="0.5, 0.68, 0.8, 0.07"
@@ -74,7 +78,7 @@
             FontSize="15"
             IsVisible="False"
             Text=""
-            TextColor="#ec3925"/>
+            TextColor="#ec3925" />
         <Button
             x:Name="btnCadastrar"
             AbsoluteLayout.LayoutBounds="0.5, 0.83"
@@ -91,7 +95,8 @@
             AbsoluteLayout.LayoutFlags="All"
             FontFamily="Montserrat-Light"
             FontSize="14.5"
-            Text="Já tem conta?" />
+            Text="Já tem conta?"
+            TextColor="#d2d2d2" />
         <Button
             x:Name="btnLogin"
             Padding="0"
