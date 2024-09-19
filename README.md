@@ -44,3 +44,8 @@ View: Inclui as páginas de interface do usuário, implementadas em XAML. Essas 
 Repositories: Implementa a lógica de acesso ao banco de dados, especificamente as operações CRUD (Create, Read, Update, Delete). Essa camada abstrai os detalhes da comunicação com o banco, mantendo o código mais organizado e testável.
 
 Services: Contém as regras de negócio e gerencia a comunicação entre os Repositories e as Views. Além disso, os serviços realizam validações e outras operações lógicas relacionadas ao processamento de dados do usuário.
+
+
+📱 Como utilizar
+
+Para executar o app é necessário a instalação dos pacotes SQLiteNetPCL, SQliteRaw Bundle no ambiente .NET juntamente com o MAUI. Após isso o app estará pronto para ser compilado e executado.
